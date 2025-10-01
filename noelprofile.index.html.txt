@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Noel Moses | AML Compliance Profile</title>
+<style>
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f8fafc;
+    color: #1f2937;
+    margin: 0; padding: 0;
+  }
+  .container {
+    max-width: 800px;
+    margin: 40px auto 50px auto;
+    background: white;
+    border-radius: 14px;
+    box-shadow: 0 10px 30px rgb(0 0 0 / 0.1);
+    padding: 48px 48px 56px 48px;
+  }
+  .header {
+    display: flex;
+    gap: 28px;
+    align-items: center;
+    border-bottom: 3px solid #2563eb;
+    padding-bottom: 16px;
+  }
+  .photo {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    overflow: hidden;
+    box-shadow: 0 5px 15px rgba(37, 99, 235, 0.4);
+  }
+  .photo img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .name {
+    font-weight: bold;
+    font-size: 2.8rem;
+    color: #1e40af;
+    margin-bottom: 6px;
+  }
+  .title {
+    font-weight: 600;
+    font-size: 1.25rem;
+    color: #1e293b;
+    margin-bottom: 12px;
+  }
+  .contact {
+    font-size: 1.05rem;
+    color: #4b5563;
+    line-height: 1.5;
+  }
+  h2 {
+    color: #2563eb;
+    font-weight: 700;
+    border-bottom: 2px solid #dbdbdb;
+    padding-bottom: 6px;
+    margin-top: 40px;
+    margin-bottom: 16px;
+    font-size: 1.4rem;
+  }
+  p, ul {
+    font-size: 1.05rem;
+    color: #374151;
+    line-height: 1.6;
+    margin: 0 0 16px 0;
+  }
+  ul.key-points {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px;
+    padding-left: 0;
+    list-style: none;
+  }
+  ul.key-points li {
+    background: #bfdbfe;
+    padding: 10px 18px;
+    border-radius: 8px;
+    font-weight: 600;
+    color: #1e40af;
+  }
+  section {
+    margin-bottom: 20px;
+  }
+  .experience-item {
+    margin-bottom: 22px;
+  }
+  .experience-item strong {
+    font-size: 1.08rem;
+    color: #1f2937;
+  }
+  .experience-dates {
+    font-style: italic;
+    color: #6b7280;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <header class="header">
+    <div class="photo">
+      <img src="PHOTO_URL_HERE" alt="Noel Moses Photo" />
+    </div>
+    <div>
+      <div class="name">Noel Moses</div>
+      <div class="title">Senior AML Compliance & Risk Management Professional</div>
+      <div class="contact">
+        Phone: +91 7028 006714<br />
+        Email: noelmoses1@gmail.com<br />
+        Location: Pune, Maharashtra, India
+      </div>
+    </div>
+  </header>
+  <section>
+    <h2>Core Expertise</h2>
+    <ul class="key-points">
+      <li>AML/CFT Compliance</li>
+      <li>Risk Management</li>
+      <li>KYC, CDD, EDD</li>
+      <li>Regulatory Compliance</li>
+      <li>Financial Investigations</li>
+      <li>Team Leadership & Training</li>
+    </ul>
+  </section>
+  <section>
+    <h2>Professional Summary</h2>
+    <p>
+      Expert AML/Compliance Manager & Reporting Officer with 20 years of experience across Middle East financial institutions. Proven ability delivering zero regulatory fine AML programs. Skilled in risk assessments, suspicious transaction monitoring, and regulatory adherence including FATF & OFAC guidelines. Supported FIFA World Cup compliance readiness.
+    </p>
+  </section>
+  <section>
+    <h2>Key Achievements</h2>
+    <ul>
+      <li>Zero regulatory fines over 17+ years managing AML compliance</li>
+      <li>Directed AML compliance for FIFA World Cup Qatar 2022</li>
+      <li>Oversaw daily transactional monitoring exceeding USD 1.5 million</li>
+      <li>Developed risk protocols driving portfolio growth and secure operations</li>
+      <li>Served as liaison for FATF and regulatory audits</li>
+      <li>Trained diverse compliance teams leading to improved adherence</li>
+    </ul>
+  </section>
+  <section>
+    <h2>Professional Experience</h2>
+    <div class="experience-item">
+      <strong>Compliance Manager & MLRO</strong><br />
+      Habib Qatar International Exchange, Doha, Qatar<br />
+      <span class="experience-dates">Mar 2013 – Dec 2024</span>
+      <ul>
+        <li>Launched and maintained comprehensive AML/CFT programs with flawless compliance</li>
+        <li>Led compliance efforts for FIFA World Cup 2022 and FATF assessments</li>
+        <li>Oversaw risk reviews, investigations, and team training across 8 business areas</li>
+      </ul>
+    </div>
+    <div class="experience-item">
+      <strong>Assistant Branch Manager</strong><br />
+      Habib Qatar International Exchange, Doha, Qatar<br />
+      <span class="experience-dates">Jan 2007 – Mar 2013</span>
+      <ul>
+        <li>Managed daily operations, regulatory closure, and financial reconciliations</li>
+        <li>Improved operational processes and compliance adherence</li>
+      </ul>
+    </div>
+    <div class="experience-item">
+      <strong>Group Leader – Billing</strong><br />
+      EXL Services Private Ltd.<br />
+      <span class="experience-dates">Apr 2005 – Dec 2006</span>
+    </div>
+    <div class="experience-item">
+      <strong>Senior Customer Service – Social Security</strong><br />
+      Mphasis Ltd.<br />
+      <span class="experience-dates">Sep 2001 – Mar 2005</span>
+    </div>
+  </section>
+  <section>
+    <h2>Certifications & Education</h2>
+    <ul>
+      <li>Certified Anti-Money Laundering Specialist (ACAMS, 2022)</li>
+      <li>MBA, Finance (2015)</li>
+      <li>Masters in Commerce, Banking Finance Administration (2009)</li>
+      <li>Certified AML Investigator CAMI & CTDI (2022)</li>
+      <li>MLRO Workshops, Qatar Forum QCB (2020)</li>
+    </ul>
+  </section>
+  <section>
+    <h2>Languages</h2>
+    <ul class="key-points">
+      <li>English</li>
+      <li>Hindi</li>
+      <li>Marathi</li>
+      <li>Arabic (Working proficiency)</li>
+    </ul>
+  </section>
+</div>
+</body>
+</html>
